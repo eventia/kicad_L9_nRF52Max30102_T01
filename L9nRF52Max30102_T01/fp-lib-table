@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "L9_pcb")(type "KiCad")(uri "${KIPRJMOD}/L9_pcb.pretty")(options "")(descr ""))
+  (lib (name "_L9_pcb")(type "KiCad")(uri "${KIPRJMOD}/_L9_pcb.pretty")(options "")(descr ""))
+)
